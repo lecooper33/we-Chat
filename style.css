@@ -16,7 +16,7 @@ body{
    margin: auto;
 }
 .container-parent .phone{
-    width: 30%;
+    height: 70vh;
     margin-left: 7%;
 }
 .cont{
@@ -427,7 +427,7 @@ hr {
         width: 100%;
     }
    .cont img{
-    width: 100%;
+  height: 70vh;
     margin: 0;
    }
    .logo{
